@@ -1,0 +1,61 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #000000;
+    padding: 20px;
+}
+
+.hero {
+    background-image: url("hero.jpg");
+    background-size: cover;
+    height: 400px;
+}
+
+.hero h1 {
+    color: white;
+    font-size: 4em;
+    text-align: center;
+}
+
+.hero p {
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.hero a {
+    color: white;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
