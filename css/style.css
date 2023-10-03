@@ -5985,3 +5985,42 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Gallery Slider Section */
+.slider {
+  /* border: 1px solid black; */
+  width: 100%;
+  margin: 0 auto;
+}
+
+.slides {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slides img {
+  width: 300px;
+  height: 200px;
+}
+
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.prev:hover,
+.next:hover {
+  background-color: gray;
+}

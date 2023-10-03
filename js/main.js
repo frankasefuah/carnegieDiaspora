@@ -301,4 +301,34 @@
     $("#search_input").focus();
   });
 
-})(jQuery);	
+})(jQuery);
+
+// Slider Gallery Section
+const slider = document.querySelector(".slider");
+const slides = slider.querySelector(".slides");
+const prevButton = slider.querySelector(".prev");
+const nextButton = slider.querySelector(".next");
+
+// Get the number of slides in the slider.
+const numberOfSlides = slides.querySelectorAll("li").length;
+
+// Set the current slide to the first slide.
+let currentSlide = 0;
+
+// Add an event listener to the prev button.
+prevButton.addEventListener("click", function () {
+  // If the current slide is not the first slide, move to the previous slide.
+  if (currentSlide > 0) {
+    currentSlide--;
+    slides.style.transform = `translateX(${currentSlide * 300}px)`;
+  }
+});
+
+// Add an event listener to the next button.
+nextButton.addEventListener("click", function () {
+  // If the current slide is not the last slide, move to the next slide.
+  if (currentSlide < numberOfSlides - 1) {
+    currentSlide++;
+    slides.style.transform = `translateX(${currentSlide * 300}px)`;
+  }
+});
