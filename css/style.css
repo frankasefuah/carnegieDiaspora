@@ -16,32 +16,32 @@
 
 /* line 12, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_extend.scss */
 .speakers_area .single_speaker .speaker_thumb .hover_overlay .social_icon a:hover {
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff9600+0,fe531e+26,c022a5+57,1bb8f9+100 */
-  background: #ff9600;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e5ce9a+0,e3b559+26,d89541+57,#d26430+100 */
+  background: #e5ce9a;
   /* Old browsers */
-  background: -moz-linear-gradient(top, #ff9600 0%, #fe531e 26%, #c022a5 57%, #1bb8f9 100%);
+  background: -moz-linear-gradient(top, #e5ce9a 0%, #e3b559 26%, #d89541 57%, #d26430 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #ff9600 0%, #fe531e 26%, #c022a5 57%, #1bb8f9 100%);
+  background: -webkit-linear-gradient(top, #e5ce9a 0%, #e3b559 26%, #d89541 57%, #d26430 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #ff9600 0%, #fe531e 26%, #c022a5 57%, #1bb8f9 100%);
+  background: linear-gradient(to bottom, #e5ce9a 0%, #e3b559 26%, #d89541 57%, #d26430 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff9600', endColorstr='#1bb8f9', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e5ce9a', endColorstr='#d26430', GradientType=0);
   /* IE6-9 */
 }
 
 /* line 23, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_extend.scss */
 .event_area .double_line::before,
 .event_area .double_line::after {
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff9600+0,fe531e+26,c022a5+57,1bb8f9+100 */
-  background: #ff9600;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e5ce9a+0,e3b559+26,d89541+57,#d26430+100 */
+  background: #e5ce9a;
   /* Old browsers */
-  background: -moz-linear-gradient(left, #ff9600 0%, #fe531e 26%, #c022a5 57%, #1bb8f9 100%);
+  background: -moz-linear-gradient(left, #e5ce9a 0%, #e3b559 26%, #d89541 57%, #d26430 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #ff9600 0%, #fe531e 26%, #c022a5 57%, #1bb8f9 100%);
+  background: -webkit-linear-gradient(left, #e5ce9a 0%, #e3b559 26%, #d89541 57%, #d26430 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #ff9600 0%, #fe531e 26%, #c022a5 57%, #1bb8f9 100%);
+  background: linear-gradient(to right, #e5ce9a 0%, #e3b559 26%, #d89541 57%, #d26430 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff9600', endColorstr='#1bb8f9', GradientType=1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e5ce9a', endColorstr='#d26430', GradientType=1);
   /* IE6-9 */
 }
 
@@ -147,7 +147,7 @@ p {
   font-size: 14px;
   font-weight: 300;
   line-height: 26px;
-  color: #808080;
+  color: #465564;
   margin-bottom: 13px;
   font-family: "Poppins", sans-serif;
 }
@@ -1106,7 +1106,7 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner_1.png);
+  background-image: url(../img/banner/texture.png);
 }
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
@@ -1921,7 +1921,7 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_resister.scss */
 .resister_bg_1 {
-  background-image: url(../img/banner/resister.png);
+  background-image: url(../img/banner/texture1.png);
 }
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_resister.scss */
