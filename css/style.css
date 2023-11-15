@@ -1039,7 +1039,7 @@ h3 {
   left: 0;
   right: 0;
   z-index: 99;
-  background: #000;
+  background: #465564;
   transform: translateY(70px);
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
@@ -2351,7 +2351,7 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_footer.scss */
 .footer_bg_1 {
-  background-image: url(../img/banner/footer_bg_1.png);
+  background-image: url(../img/banner/texture2.png);
 }
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_footer.scss */
