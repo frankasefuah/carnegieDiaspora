@@ -460,24 +460,24 @@ h3 {
 /* line 27, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_btn.scss */
 .boxed-btn-red {
   background: #fff;
-  color: #FF0000;
+  color: #d26430;
   display: inline-block;
   padding: 16px 44px;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
   font-weight: 500;
   border: 0;
-  border: 2px solid #FF0000;
+  border: 2px solid #d26430;
   text-align: center;
-  color: #FF0000 !important;
+  color: #d26430 !important;
   text-transform: capitalize;
 }
 
 /* line 41, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_btn.scss */
 .boxed-btn-red:hover {
-  background: #FF0000;
+  background: #d26430;
   color: #fff !important;
-  border: 2px solid #FF0000;
+  border: 2px solid #d26430;
 }
 
 /* line 46, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_btn.scss */
